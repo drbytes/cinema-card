@@ -1,5 +1,6 @@
 # cinema-card
 This is a card I quickly created to recreate a remotecontrol in the homeassistant UI because I never can find the damn thing ..
+The code isn't really all that pretty and can use some cleaning up but.. it works well so it's one of those things I'll get to when I happen to find myself with tons of time on my hands which should be somewhere never. :)
 Here's an example of the remote I recreated for my bedroom tv:
 
 ![Tv and ventilator config](https://raw.githubusercontent.com/drbytes/cinema-card/master/example.jpg)
